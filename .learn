@@ -1,0 +1,13 @@
+languages:
+  - html
+tags:
+  - review
+  - html
+  - text
+  - images
+  - links
+type:
+  - code along
+resources: 0
+tests:
+ - green_onion
