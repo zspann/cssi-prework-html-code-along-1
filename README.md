@@ -69,8 +69,10 @@ Pushing is the process of taking your local code and commits and syncing them, o
 
 ### Make a Pull Request on Github
 
-Submitting a pull request is how you submit your lab to be evaluated or graded on Learn. We've abstracted some of the complexities of doing this, so all you need to do is type `learn submit`
+Submitting a pull request is how you submit your lab to be evaluated or graded on Learn. We've abstracted some of the complexities of doing this, so all you need to do is type `learn submit`.
 
 ## Resources
 
 - [HTML Encoding (Character Sets)](http://www.w3schools.com/html/html_charset.asp)
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-prework-html-code-along-1'>HTML Code Along</a> on Learn.co and start learning to code for free.</p>
