@@ -45,14 +45,6 @@ Follow along with the provided video, coding everything you see there. Feel free
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/videoseries?list=PLj148bJp5wiyXRRpL8rM-cLETaClgdBK2" frameborder="0" allowfullscreen></iframe>
 
-### Setup local testing.
-
-Please <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">install Firefox</a> if you haven't already as it is required for the screenshot tests to run.
-
-### Run local tests.
-
-To run local tests type the `learn` command from Terminal. This will take a snapshot of one of your pages and make a comparison with a solution snapshot. If it passes, the local build light will turn green for this lesson page back at learn.co in your browser. If it does not pass watch the video again, and check your code.
-
 ### Stage, commit, and push up your changes.
 
 #### `git add`
